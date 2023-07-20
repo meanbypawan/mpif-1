@@ -1,0 +1,97 @@
+Web-Application
+ 1. FrontEnd Layer/UI 
+    MulitPage Application
+     HTML,CSS,Javascript
+    
+    Single Page Application
+      ReactJs
+      Angular   
+
+ 2. Backend Layer
+     Java, Python, php, ruby, asp, javascript 
+
+ 3. Database Layer
+     Oracle, MysQL, Postgress, MongoDb, MariaDB, SQLite...
+
+
+ User
+    <------> FrontEnd<---------->BackendServer<---------->Database   
+ For Example (Radiff.com)
+             
+               request
+  Browser/Client---------------------->Radiff.com Server 
+               response
+  Browser <----------------------
+
+---------------------------------------------------------------------------------
+HTML (Hypertext Markup Language):-
+  It is language of web
+
+Tag:-
+ 1. Block Level Tag (Always start with new line, width:100%)
+    div, p, h1,h2,h3,h4,h5,h6......
+ 
+ 2. Inline Tag (Width : Wrap Content)
+     span, small, label......
+ 
+ 3. Formatting 
+     b, i, u, strong, sup, sub, del.....
+
+ 4. Table Related
+     table, thead, tbody, th, tr, td, tfoot           
+ 5. Media Related
+     img , audio, video
+
+ 6. Heading
+     h1,h2..............h6
+ 
+ 7. input Related
+     input:- type= text,email,password,number,date,radio,checkbox
+                   file, button, submit
+     select 
+ 8.  button related
+       button  <button>Click</button>
+       submit  <button type="submit"></button>
+       reset                            
+ 
+ 9. Semantsics Tag
+     article
+     main
+     section
+     header, footer
+     aside 
+
+
+
+
+
+
+
+
+
+
+
+             
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
