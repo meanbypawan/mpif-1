@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <style>
+            .container{
+               border: 1px solid red;
+               height: 500px;
+               width: 80%;
+               margin: auto;
+               background-color: mediumseagreen; 
+            }
+            .container p{
+                font-size: 30px;
+                font-weight: bold;
+            } 
+            .container p:nth-child(odd){
+                color: tomato;
+            }
+            .container p:nth-child(even){
+                color: blue;
+            }
+            span{
+               font-size: 50px;
+               font-weight: bolder;
+               font-family: 'Courier New', Courier, monospace;
+               color: white;                
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <p>This is first span content</p>
+            <p>This is second span content</p>
+            <p>This is third span content</p>
+            <p>This is fourth span content</p>
+            <p>This is fivth span content</p>
+            <span>Span -1 </span>
+            <span>Span - 2</span>
+        </div>
+    </body>
+</html>
